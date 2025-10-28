@@ -1,7 +1,7 @@
-android/crashrecovery/internal/flags/CustomFeatureFlags
-android/crashrecovery/internal/flags/FakeFeatureFlagsImpl
-android/crashrecovery/internal/flags/FeatureFlags
-android/crashrecovery/internal/flags/FeatureFlagsImpl
-android/crashrecovery/internal/flags/Flags
+android/crashrecovery/flags/CustomFeatureFlags
+android/crashrecovery/flags/FakeFeatureFlagsImpl
+android/crashrecovery/flags/FeatureFlags
+android/crashrecovery/flags/FeatureFlagsImpl
+android/crashrecovery/flags/Flags
 android/service/watchdog/ExplicitHealthCheckService
 android/service/watchdog/IExplicitHealthCheckService

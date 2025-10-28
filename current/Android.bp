@@ -79,9 +79,8 @@ java_sdk_library_import {
     licenses: ["crashrecovery-sdk_Android-Apache-2.0"],
     shared_library: false,
     permitted_packages: [
-        "android.crashrecovery",
-        "com.android.crashrecovery",
         "com.android.server",
+        "android.crashrecovery",
     ],
     public: {
         jars: ["sdk_library/public/service-crashrecovery-stubs.jar"],
