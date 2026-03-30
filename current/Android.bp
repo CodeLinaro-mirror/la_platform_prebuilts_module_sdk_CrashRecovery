@@ -43,8 +43,8 @@ java_sdk_library_import {
     licenses: ["crashrecovery-sdk_Android-Apache-2.0"],
     shared_library: false,
     permitted_packages: [
-        "android.service.watchdog",
         "android.crashrecovery",
+        "android.service.watchdog",
     ],
     public: {
         jars: ["sdk_library/public/framework-crashrecovery-stubs.jar"],
